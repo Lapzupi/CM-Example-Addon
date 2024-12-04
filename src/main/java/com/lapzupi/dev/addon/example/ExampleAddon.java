@@ -1,4 +1,4 @@
-package com.lapzupi.dev.example.cmenusexampleaddon;
+package com.lapzupi.dev.addon.example;
 
 import com.lapzupi.dev.configurablemenus.addons.ItemAddon;
 
